@@ -1,6 +1,6 @@
 public class hello {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-        System.out.println("github push trigger test");
+        logger.log("Hello World!");
+        logger.log("github push trigger test");
     }
 }
